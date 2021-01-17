@@ -49,5 +49,6 @@
 </table>
 </form>
 <script src="js/calculator.js"></script>
+<a href=".">公開物置き場</a>
 </body>
 </html>
