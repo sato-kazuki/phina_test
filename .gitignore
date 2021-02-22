@@ -1,4 +1,6 @@
 /index.php
+license.txt
+readme.html
 wp-admin
 wp-content
 wp-includes
@@ -10,8 +12,6 @@ wp-config-sample.php
 wp-cron.php
 wp-links-opml.php
 wp-load.php
-wp-login.php
-wp-login.php
 wp-login.php
 wp-mail.php
 wp-settings.php
